@@ -1,3 +1,3 @@
 # Emotet-Files
 
-Archivos recopilados desde sitios comprometidos por Emotet
+Archivos utilizados por Emotet para la distribución de la amenaza desde sitios comprometidos.
